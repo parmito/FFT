@@ -1,0 +1,9 @@
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/main.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/main_autogen_timestamp_deps.dir
+/home/volkswagen2/Documentos/danilo-franco/FFT/main/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/main_autogen.dir
